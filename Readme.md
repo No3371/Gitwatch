@@ -18,14 +18,14 @@ Useful for outdated git service deployments that does not support Discord, or wh
 
 ## Note
 
-### It's local
+#### It's local
 
 GitWatch works given any git repo, however, the best practice is give it a dedicated repo, so that it does not notify commits not pushed yet:
 
 - Given RepoA, where you works: notify any new commits created locally.
 - Given RepoB, which is RepoA's clone where you leave alone: notify only when commits pushed to remote.
 
-### Only For Cloned Branches
+#### Only For Cloned Branches
 
 GitWatch basically just do `git fetch --all` and `git log --all`, these only works for already cloned branches.
 
