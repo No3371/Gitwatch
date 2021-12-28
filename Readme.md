@@ -33,7 +33,7 @@ GitWatch basically just do `git fetch --all` and `git log --all`, these only wor
 
 ## Credits
 
-- This project is based on discord bot framework [Arikawa by DiamondBurned](https://github.com/diamondburned/arikawa).
+- This project is based on discord bot framework [Arikawa by diamondburned](https://github.com/diamondburned/arikawa).
 - This project is packed with a customized version of [go-gitlog](https://github.com/wadackel/go-gitlog).
 
 ## License
