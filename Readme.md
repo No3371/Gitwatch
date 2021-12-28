@@ -16,6 +16,8 @@ Useful for outdated git service deployments that does not support Discord, or wh
 - `bot_token`: The discord bot token. Get yours on Discord Developer Portal.
 - `channelId`: The channel Id (number) where the notification will be sent.
 
+\*Make sure the bot is invited and have access to the channel given.
+
 ## Note
 
 #### It's local
