@@ -34,3 +34,7 @@ GitWatch basically just do `git fetch --all` and `git log --all`, these only wor
 ## Credits
 
 This project is packed with a customized version of [go-gitlog](https://github.com/wadackel/go-gitlog).
+
+## License
+
+MIT
