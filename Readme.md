@@ -12,4 +12,4 @@ Useful for outdated git service deployments that does not support Discord, or wh
 
 - `path`: The absolute path to the repo to be watch.
 - `bot_token`: The discord bot token. Get yours on Discord Developer Portal.
-- `cid`: The channel Id (number) where the notification will be sent.
+- `channelId`: The channel Id (number) where the notification will be sent.
